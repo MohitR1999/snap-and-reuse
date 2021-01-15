@@ -300,8 +300,10 @@ body {
   padding: 0.5em 0.5em;
   /*color: var(--green-grad);*/
 
-  background-color: #ececec;
-  background-image: url("../img/bg/bg1.png");
+  background-color: #c7c7c7;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/bg/mount-bg.png");
   background-repeat: no-repeat;
 
 }
